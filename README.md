@@ -1,3 +1,5 @@
 ## Spy robot
 
-Spy Robot disks from Eaglemoss
+Eaglemoss: Spy Robot disks
+
+![Spy robot](spyrobot.webp)
